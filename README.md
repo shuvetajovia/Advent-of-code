@@ -1,4 +1,4 @@
-# Advent-of-code
+# Advent-of-code 2025
 solution python code in - solutions.py
 change the path of the puzzle input path , in every code 
 with open(r"E:\advent\input.txt") as f: --- path differece in every directory . save the input as .txt and chage the path !!!!!
